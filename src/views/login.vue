@@ -1,8 +1,5 @@
 <template>
-  <div class="app">
-    <router-link to="/login">登录</router-link>
-    <router-view></router-view>
-  </div>
+  <div class="app"></div>
 </template>
 
 <script lang="ts">
